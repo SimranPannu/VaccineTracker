@@ -1,2 +1,4 @@
 # VaccineTracker
 LiftOff project
+This project is an innovative way to store immunization records for users that need a secure location for important information such as vaccinations. Within this site a parent, guardian, administrator, or verified user can create a personal account,  update vaccination information, track their individual children personal accounts of vaccinations and receive informative data about immunizations they might be interested in. This is a beneficial method of storing important immunization data for families to shift from paper to paperless. Currently, vaccination forms can be multiple, disorganized and even lost for important situations. With this project, users can shift into a functional site that stores important information for them.This idea came to my mind when i was struggling to keep my child's vaccine records.
+Language: C#, HTML
